@@ -1,0 +1,39 @@
+.P{
+    color: #7fafdf;
+}
+
+.head-text{
+    font-size: 28pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: #7fafdf;
+    margin-top: 30px;
+}
+.head-sub-text{
+    font-size: 10pt;
+    color: #7fafdf;
+}
+
+
+.head-sub{
+    width: 98%;
+    height: 20%;
+    position: relative;
+    left: 0%;
+}
+.vertical-line{
+    width: 0.7%;
+    height: 100%;
+    background-color: #2cfec1;
+    position: relative;
+    display: inline-block;
+    right: 0%;
+}
+.head-sub-sub{
+    width: 75%;
+    height: 100%;
+    position: relative;
+    left: 30px;
+    display: inline-block;
+    left: 0%;
+    padding-left: 1%;
+}
